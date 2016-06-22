@@ -1,0 +1,19 @@
+{
+  "name": "toast-grid",
+  "version": "1.0.0",
+  "description": "fork from toast-grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZanMarolt/Toast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZanMarolt/Toast/issues"
+  },
+  "homepage": "https://github.com/ZanMarolt/Toast#readme"
+}
