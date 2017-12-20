@@ -8,12 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZanMarolt/Toast.git"
+    "url": "git+https://github.com/labelfinder/Toast.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZanMarolt/Toast/issues"
+    "url": "https://github.com/labelfinder/Toast/issues"
   },
-  "homepage": "https://github.com/ZanMarolt/Toast#readme"
+  "style": "css/grid.css",
+  "title": "Daneden Toast",
+  "homepage": "https://github.com/labelfinder/Toast#readme"
 }
